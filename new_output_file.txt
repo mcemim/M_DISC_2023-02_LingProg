@@ -1,0 +1,10 @@
+Oi, sou o Jo�o.
+Bem-vindo ao ChatGPT! Este é um texto de exemplo para demonstrar contagem de linhas e palavras. Você pode usar este texto para testar as funções que discutimos anteriormente. Lembre-se de substituir este texto por seus próprios dados ao aplicar as operações.
+O Jo�o está testando.
+Python é uma linguagem de programação poderosa e versátil. Ela é amplamente utilizada para desenvolvimento web, automação, análise de dados e muito mais. Se você estiver aprendendo Python, pratique com exemplos práticos como este para aprimorar suas habilidades.
+
+Espero que essas operações sejam úteis para suas necessidades. Se tiver mais perguntas ou precisar de assistência, sinta-se à vontade para perguntar. Boa codificação!222Bem-vindo ao ChatGPT! Este é um texto de exemplo para demonstrar contagem de linhas e palavras. Você pode usar este texto para testar as funções que discutimos anteriormente. Lembre-se de substituir este texto por seus próprios dados ao aplicar as operações.
+222
+222Python é uma linguagem de programação poderosa e versátil. Ela é amplamente utilizada para desenvolvimento web, automação, análise de dados e muito mais. Se você estiver aprendendo Python, pratique com exemplos práticos como este para aprimorar suas habilidades.
+222
+222Espero que essas operações sejam úteis para suas necessidades. Se tiver mais perguntas ou precisar de assistência, sinta-se à vontade para perguntar. Boa codificação!
